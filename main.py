@@ -7,7 +7,9 @@ flight to a wedding) is in the first words, the excuse (a "flexible"
 fare is only a suggestion) in the middle, and the punchline ("not a
 warning") closes the line. The joke needs no setup: the AI treats a
 fare condition the way it treats a suggestion -- something optional --
-and the wedding makes the stakes real and human.
+and the wedding makes the stakes real and human. "Flexible" does the
+double work: the fare is flexible, the agent's reading of it is flexible,
+and only the wedding is not.
 """
 
 from pathlib import Path
